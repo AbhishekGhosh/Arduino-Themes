@@ -1,0 +1,103 @@
+# GUI - STATUS
+status.notice.fgcolor = #AAAAAA
+status.notice.bgcolor = #363636
+status.error.fgcolor = #ffffff
+status.error.bgcolor = #805a51	
+status.edit.fgcolor = #000000
+status.edit.bgcolor = #cc9900
+status.font = SansSerif,plain,12
+
+# GUI - TABS
+# settings for the tabs at the top
+# (tab images are stored in the lib/theme folder)
+header.bgcolor = #a2a2a2
+header.text.selected.color = #ffffff
+header.text.unselected.color = #ffffff
+header.text.font = SansSerif,plain,12
+
+# GUI - CONSOLE
+console.font = Monospaced,plain,11
+console.font.macosx = Monaco,plain,10
+console.color = #000000
+console.output.color = #ffffff
+console.error.color = #805a51
+
+# GUI - BUTTONS
+buttons.bgcolor = #6f6f6f
+buttons.status.font = SansSerif,plain,12
+buttons.status.color = #ffffff
+
+# GUI - LINESTATUS
+linestatus.color = #ffffff
+linestatus.bgcolor = #424242
+
+# EDITOR - DETAILS
+
+# foreground and background colors
+editor.fgcolor = #ededed
+editor.bgcolor = #363636
+
+# highlight for the current line
+editor.linehighlight=true
+editor.linehighlight.color=#e2e2e2
+
+# caret blinking and caret color
+editor.caret.color = #ffffff
+
+# color to be used for background when 'external editor' enabled
+editor.external.bgcolor = #c8d2dc
+
+# selection color
+editor.selection.color = #111111
+
+# area that's not in use by the text (replaced with tildes)
+editor.invalid.style = #7e7e7e,bold
+
+# little pooties at the end of lines that show where they finish
+editor.eolmarkers = false
+editor.eolmarkers.color = #ffffff
+
+# bracket/brace highlighting
+editor.brackethighlight = true
+editor.brackethighlight.color = #006699
+
+
+# TEXT - KEYWORDS
+
+# e.g abstract, final, private
+editor.keyword1.style = #bf6171,plain
+
+# e.g. beginShape, point, line
+editor.keyword2.style = #759f5b,plain
+
+# e.g. byte, char, short, color
+editor.keyword3.style = #a99045,bold
+
+
+# TEXT - LITERALS
+
+# constants: e.g. null, true, this, RGB, TWO_PI
+editor.literal1.style = #759f5b,plain
+
+# p5 built in variables: e.g. mouseX, width, pixels
+editor.literal2.style = #759f5b,plain
+
+# http://arduino.cc/
+editor.url.style = #0000ff,underlined
+
+# e.g. + - = /
+editor.operator.style = #000000,plain
+
+# ?? maybe this is for words followed by a colon
+# like in case statements or goto
+editor.label.style = #7e7e7e,bold
+
+
+# TEXT - COMMENTS
+editor.comment1.style = #7e7e7e,plain
+editor.comment2.style = #7e7e7e,plain
+
+
+# LINE STATUS - editor line number status bar at the bottom of the screen
+linestatus.font	   = SansSerif,plain,10
+linestatus.height  = 20

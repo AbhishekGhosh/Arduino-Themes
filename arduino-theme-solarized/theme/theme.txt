@@ -1,0 +1,65 @@
+# base03:    #002b36
+# base02:    #073642
+# base01:    #586e75
+# base00:    #657b83
+# base0:     #839496
+# base1:     #93a1a1
+# base2:     #eee8d5
+# base3:     #fdf6e3
+# yellow:    #b58900
+# orange:    #cb4b16
+# red:       #dc322f
+# magenta:   #d33682
+# violet:    #6c71c4
+# blue:      #268bd2
+# cyan:      #2aa198
+# green:     #859900
+
+status.notice.fgcolor = #93a1a1
+status.notice.bgcolor = #073642
+status.error.fgcolor = #eee8d5
+status.error.bgcolor = #cb4b16
+status.edit.fgcolor = #eee8d5
+status.edit.bgcolor = #b58900
+status.font = SourceSansPro-Regular,plain,14
+
+header.bgcolor = #586e75
+header.text.selected.color = #cb4b16
+header.text.unselected.color = #839496
+header.text.font = SourceSansPro-Regular,plain,14
+
+console.color = #00161b
+console.output.color = #073642
+console.error.color = #cb4b16
+console.font = SourceCodePro-Regular,plain,14
+
+buttons.bgcolor = #586e75
+buttons.status.color = #eee8d5
+buttons.status.font = SourceSansPro-Regular,plain,14
+
+linestatus.color = #657b83
+linestatus.bgcolor = #073642
+linestatus.font	= SourceSansPro-Regular,plain,14
+linestatus.height = 20
+
+editor.fgcolor = #93a1a1
+editor.bgcolor = #002b36
+editor.caret.color = #fdf6e3
+editor.external.bgcolor = #222222
+editor.selection.color = #fdf6e3
+editor.invalid.style = #dc322f,plain
+editor.eolmarkers = false
+editor.eolmarkers.color = #073642
+editor.brackethighlight = true
+editor.brackethighlight.color = #b58900
+
+editor.keyword1.style = #cb4b16,plain
+editor.keyword2.style = #b58900,plain
+editor.keyword3.style = #859900,plain
+editor.literal1.style = #268bd2,plain
+editor.literal2.style = #2aa198,plain
+editor.comment1.style = #586e75,plain
+editor.comment2.style = #586e75,plain
+editor.operator.style = #93a1a1,plain
+editor.label.style = #93a1a1,plain
+editor.url.style = #6c71c4,plain

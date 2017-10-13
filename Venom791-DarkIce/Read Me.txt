@@ -1,0 +1,18 @@
+DarkIce Theme by Venom791
+Supports Arduino 1.6.5 r5
+================================================================================================
+
+Installation:
+
+This theme is for windows users. Im sure MAC users will be able to figure out 
+where to put the files, unfortunatly i am not a mac user.
+
+1.  Backup your existing preferences + theme files/folders.
+2.  Copy the perferences file in "DarkIce-Theme\appdata\arduino15\" into: "%appdata%\arduino15\"
+    OVERWRITE EVERYTHING.
+3.  Copy the entire "theme" folder into "arduino-1.6.5-r5\lib\" 
+    OVERWRITE EVERYTHING.
+
+Enjoy & Happy Coding.
+
+\m/  d-.-b  \m/

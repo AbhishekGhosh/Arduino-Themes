@@ -1,0 +1,116 @@
+# GUI - BUTTONS
+buttons.bgcolor = #132638
+buttons.status.font = processing.sans,plain,12
+buttons.status.color = #ffffff
+
+
+# GUI - TABS
+# (tab images are stored in the lib/theme folder)
+header.bgcolor = #132638
+header.text.selected.color = #000000
+header.text.unselected.color = #ffffff
+header.text.font = processing.sans,bold,14
+
+
+# EDITOR - DETAILS
+# foreground and background colors
+editor.fgcolor = #000000
+editor.bgcolor = #ffffff
+
+# highlight for the current line
+editor.linehighlight.color=#ebfffd
+# highlight for the current line
+editor.linehighlight=true
+
+# caret blinking and caret color
+editor.caret.color = #333300
+
+# color to be used for background when 'external editor' enabled
+editor.external.bgcolor = #c8d2dc
+
+# selection color
+editor.selection.color = #ffcc00
+
+# area that's not in use by the text (replaced with tildes)
+editor.invalid.style = #7e7e7e,bold
+
+# little pooties at the end of lines that show where they finish
+editor.eolmarkers = false
+editor.eolmarkers.color = #999999
+
+# bracket/brace highlighting
+editor.brackethighlight = true
+editor.brackethighlight.color = #006699
+
+# TEXT - KEYWORDS
+# FUNCTIONS
+editor.keyword1.style = #d35400,bold
+editor.data_type.style = #d35400,bold
+
+# METHODS
+editor.keyword2.style = #d35400,plain
+editor.function.style = #d35400,plain
+
+# STRUCTURES
+editor.keyword3.style = #5e6d03,plain
+editor.reserved_word.style = #5e6d03,plain
+
+# TEXT - LITERALS
+editor.literal1.style = #00979c,plain
+editor.reserved_word_2.style = #00979c,plain
+
+editor.literal2.style = #00979c,plain
+editor.variable.style = #00979c,plain
+editor.literal_boolean.style = #00979c,plain
+editor.literal_char.style = #00979c,plain
+editor.literal_string_double_quote.style = #005c5f,plain
+editor.preprocessor.style = #5e6d03,plain
+
+# http://www.arduino.cc/
+editor.url.style = #0000ff,underlined
+
+# e.g. + - = /
+editor.operator.style = #434f54,plain
+
+# ?? maybe this is for words followed by a colon
+# like in case statements or goto
+editor.label.style = #7e7e7e,bold
+
+# TEXT - COMMENTS
+editor.comment1.style = #434f54,plain
+editor.comment2.style = #95a5a6,plain
+
+
+# GUI - STATUS
+status.notice.fgcolor = #000000
+status.notice.bgcolor = #818b95
+status.error.fgcolor = #ffffff
+status.error.bgcolor = #9e0a0a
+status.font = processing.sans,plain,13
+
+
+# GUI - CONSOLE
+console.font = Monospaced,plain,11
+console.font.macosx = Monaco,plain,10
+console.color = #000000
+console.output.color = #cccccc
+# text color for warnings/errors printed in the console
+console.error.color = #d9211e
+
+
+# GUI - LINESTATUS - editor line number status bar at the bottom of the screen
+linestatus.color = #e0fffd
+linestatus.bgcolor = #132638
+linestatus.font	   = processing.sans,bold,12
+linestatus.height  = 20
+
+
+# GUI - PLOTTING
+# color cycle created via colorbrewer2.org
+plotting.bgcolor = #ffffff
+plotting.color = #ffffff
+plotting.graphcolor.size = 4
+plotting.graphcolor.00 = #2c7bb6
+plotting.graphcolor.01 = #fdae61
+plotting.graphcolor.02 = #d7191c
+plotting.graphcolor.03 = #abd9e9
