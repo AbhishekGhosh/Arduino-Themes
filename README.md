@@ -1,5 +1,5 @@
 # Arduino Themes
-A collection of themes for the Arduino IDE. Installation is full manual. 
+A collection of themes for the Arduino IDE. Installation is full manual. Read this https://thecustomizewindows.com/2017/10/change-theme-font-syntax-highlighting-arduino-ide/
 
 Monkai :
 
