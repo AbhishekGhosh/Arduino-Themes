@@ -13,6 +13,13 @@ DarkArduino :
 
 ![screenshot](https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png)
 
+Update :
+
+Also look at :
+
+1. Dracula : https://draculatheme.com/arduino-ide and https://github.com/dracula/arduino-ide 
+2. Dark theme : https://github.com/taunoe/arduino-dark-theme
+
 
 #### Installation
 - Back up your current theme by rename the folder **{Arduino IDE 
